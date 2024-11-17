@@ -1,3 +1,8 @@
+<div style="background-color: #ffffff; padding: 20px;">
+  <h1 style="text-align: center;">Welcome to My Profile!</h1>
+  <p style="text-align: center;">여기서 저의 프로젝트와 기술 스택을 확인하실 수 있습니다.</p>
+</div>
+
 ## 안녕하세요! 👋
 저는 **프론트엔드 개발자**를 목표로 공부하고 있는 박수관 입니다.
 새로운 기술과 디자인 트렌드를 배우고, 이를 통해 사용자 경험을 향상시키는 데 관심이 많습니다.
