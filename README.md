@@ -9,7 +9,13 @@
  - **반응형 웹 개발**
  - **HTML, CSS, JavaScript**의 깊은 이해와 활용
  - 최신 **프론트엔드 프레임워크**(React, Vue.js 등) 숙련
+   
+---
 
+#### ✨ 제가 좋아하는 것:
+- **코드로 문제를 해결하고 새로운 기능을 구현하는 과정**
+- **다른 개발자와 협업하며 함께 성장하기**
+- **직관적이고 사용하기 쉬운 UI 디자인**
 <!--
 **Sugwan-p/Sugwan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
