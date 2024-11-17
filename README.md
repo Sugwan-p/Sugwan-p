@@ -18,7 +18,7 @@
 - **직관적이고 사용하기 쉬운 UI 디자인**
 
 ---
-![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)(https://www.instagram.com/sug_0728/)
+![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/sug_0728/)
 
 <!--
 **Sugwan-p/Sugwan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
