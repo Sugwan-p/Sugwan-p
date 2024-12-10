@@ -36,6 +36,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical)
 
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical)
+
 <!--
 **Sugwan-p/Sugwan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
