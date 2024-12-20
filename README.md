@@ -34,8 +34,6 @@
 [![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical)
 
-
-
 <!--
 **Sugwan-p/Sugwan-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
