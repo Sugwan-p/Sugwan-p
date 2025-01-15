@@ -33,8 +33,7 @@
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical)
 
 
