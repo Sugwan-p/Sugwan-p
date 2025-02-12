@@ -27,7 +27,7 @@
 
 ---
 #### 기술:
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML" height="30px">
   </a>
@@ -42,7 +42,10 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue.js" height="30px">
+  </a>
   <a href="https://www.adobe.com/products/photoshop.html">
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" alt="Photoshop" height="30px">
   </a>
@@ -52,9 +55,10 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30px">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical" alt="GitHub Stats" width="500px">
 </p>
+
 
 
 
