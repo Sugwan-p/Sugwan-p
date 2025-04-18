@@ -65,9 +65,13 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="30px">
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical" alt="GitHub Stats" width="500px">
-</p>
+## 📊 GitHub Stats
+
+<div align="py-3">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sugwan-p&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sugwan-p&theme=dark" height="180px" />
+</div>
+
 
 
 
